@@ -19,7 +19,7 @@ The system also includes a help section to guide users on how to use the portal.
 
  Prerequisites
 
-- Python 3.x
+- Python 3.6.5
 - MySQL Server
 - `mysql-connector-python` library
 
