@@ -27,7 +27,7 @@ The system also includes a help section to guide users on how to use the portal.
 
 1. Clone the Repository
    ```bash
-   git clone https://github.com/yourusername/IRCTC-basic-online-ticket-booking-system.git
+   git clone https://github.com/Kayroze8/IRCTC-basic-online-ticket-booking-system.git
    cd IRCTC-basic-online-ticket-booking-system
    ```
 
