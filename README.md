@@ -72,8 +72,8 @@ The system also includes a help section to guide users on how to use the portal.
      ```python
      db = mysql.connector.connect(
          host="localhost",
-         user="your_username",
-         passwd="your_password",
+         user="root",
+         passwd="rootroot",
          charset="utf8",
          autocommit=True
      )
